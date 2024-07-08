@@ -1,3 +1,4 @@
 data/*
 img/
-proyecto1/.PNG
+proyecto1/*.PNG
+!Proyecto_01/reporte1.PNG
