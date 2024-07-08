@@ -2,7 +2,7 @@
 
 ## Details
 
-Dashboard about different products sales in many countries
+### Dashboard about different products sales in many countries
 
 ![alt text](reporte1.PNG)
 
