@@ -2,8 +2,9 @@
 
 ## Details
 
-Probando descripcion
+Dashboard about different products sales in many countries
 
-(Aqui copiar y pegar la img del recorte del dashboard de power BI)
+![alt text](reporte1.PNG)
 
-Saldrá en github en cada carpeta de proyecto que se abra la img del dashboard
+In this report we can find one product by id or code and see how many sales there are in specific countries. You can also see total orders by countries, best seller products and the benefits selling the product you want.
+This report has been done by Microsoft Power BI using a sample of data. 
